@@ -1,0 +1,32 @@
+site:
+  title: Netbeheer Nederland Documentation
+  url: https://netbeheer-nederland.github.io/docs-dev
+content:
+  branches: HEAD
+  sources:
+  - url: .
+    start_path: ./root_component
+  - url: https://github.com/Netbeheer-Nederland/doc-documentation-manual
+  - url: https://github.com/Netbeheer-Nederland/doc-linkml-guide
+  - url: https://github.com/Netbeheer-Nederland/doc-modeling-guide
+asciidoc:
+  attributes:
+    page-pagination: ''
+    experimental: ''
+    kroki-fetch-diagram: true
+    kroki-default-format: svg@
+  extensions:
+  - asciidoctor-kroki
+output:
+  clean: true
+  dir: ./docs
+urls:
+  latest_version_segment: latest
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+  supplemental_files: ./supplemental-ui
+antora:
+  extensions:
+  - require: '@antora/lunr-extension'

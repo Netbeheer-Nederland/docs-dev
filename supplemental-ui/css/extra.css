@@ -1,0 +1,30 @@
+.truncate {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media screen and (min-width: 1024px) {
+  /*
+  .doc {
+    max-width: 77rem;
+  }
+  */
+
+  .relations-diagram img {
+    max-height: 33vh;
+  }
+
+  /*
+  .nav-container {
+    width: 25vw;
+  }
+
+  aside.toc.sidebar {
+    flex-basis: 20rem;
+  }
+  */
+}
+
+
