@@ -2,7 +2,6 @@ site:
   title: Netbeheer Nederland Documentation
   url: https://netbeheer-nederland.github.io/docs-dev
 content:
-  branches: HEAD
   sources:
   - url: .
     start_path: ./root_component
