@@ -8,6 +8,7 @@ content:
   - url: https://github.com/Netbeheer-Nederland/doc-documentation-manual
   - url: https://github.com/Netbeheer-Nederland/doc-linkml-guide
   - url: https://github.com/Netbeheer-Nederland/doc-modeling-guide
+  - url: https://github.com/Netbeheer-Nederland/dp-meetdata
 asciidoc:
   attributes:
     page-pagination: ''
