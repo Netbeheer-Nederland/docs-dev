@@ -1,2 +1,3 @@
 * xref:documentation-manual::index.adoc[]
 * xref:linkml-guide::index.adoc[]
+* xref:dp-meetdata::index.adoc[]
