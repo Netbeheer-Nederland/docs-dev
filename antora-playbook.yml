@@ -4,13 +4,13 @@ site:
 content:
   sources:
   - url: .
-    start_path: ./root_component/
+    start_path: ./root_component
   - url: https://github.com/Netbeheer-Nederland/doc-documentation-manual
   - url: https://github.com/Netbeheer-Nederland/doc-linkml-guide
   - url: https://github.com/Netbeheer-Nederland/doc-modeling-guide
   - url: https://github.com/Netbeheer-Nederland/dp-meetdata
     branches: bart-test-antora
-    start_path: ./docs-src/
+    start_path: docs-src
 asciidoc:
   attributes:
     page-pagination: ''
