@@ -9,6 +9,7 @@ content:
   - url: https://github.com/Netbeheer-Nederland/doc-linkml-guide
   - url: https://github.com/Netbeheer-Nederland/doc-modeling-guide
   - url: https://github.com/Netbeheer-Nederland/dp-meetdata
+    branches: bart-test-antora
     start_path: ./docs-src/
 asciidoc:
   attributes:
