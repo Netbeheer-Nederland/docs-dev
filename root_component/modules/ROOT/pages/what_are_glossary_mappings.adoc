@@ -1,0 +1,3 @@
+= Glossary Mappings Explained
+
+SKOS bla bla.
