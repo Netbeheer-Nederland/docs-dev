@@ -1,5 +1,5 @@
 .truncate {
-  width: 250px;
+  max-width: 50px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -14,6 +14,14 @@
 
   img {
     max-height: 33vh;
+  }
+
+  nav .nav-list > li {
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: .75rem;  /* Equal to font-size in TOC */
   }
 
   /*
