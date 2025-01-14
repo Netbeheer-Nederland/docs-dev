@@ -3,3 +3,4 @@
 ** xref:linkml-guide::index.adoc[]
 * Data Products
 ** xref:dp-meetdata::index.adoc[]
+** xref:dp-nbl-forecast::index.adoc[]

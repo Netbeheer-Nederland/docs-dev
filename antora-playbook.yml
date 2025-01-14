@@ -11,6 +11,9 @@ content:
   - url: https://github.com/Netbeheer-Nederland/dp-meetdata
     branches: bart-test-antora
     start_path: docs-src
+  - url: https://github.com/Netbeheer-Nederland/dp-nbl-forecast
+    branches: bart-test-antora
+    start_path: docs-src
 asciidoc:
   attributes:
     page-pagination: ''
