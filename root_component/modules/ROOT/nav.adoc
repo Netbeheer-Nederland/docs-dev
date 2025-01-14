@@ -1,7 +1,7 @@
 * Guides
 ** xref:documentation-manual::index.adoc[]
 ** xref:linkml-guide::index.adoc[]
-* Data Products
+* Data products
 ** xref:dp-meetdata::index.adoc[]
 ** xref:dp-nbl-forecast::index.adoc[]
 ** xref:dp-eh-nettopologie::index.adoc[]
