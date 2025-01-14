@@ -14,6 +14,12 @@ content:
   - url: https://github.com/Netbeheer-Nederland/dp-nbl-forecast
     branches: bart-test-antora
     start_path: docs-src
+  - url: https://github.com/Netbeheer-Nederland/dp-eh-nettopologie
+    branches: bart-test-antora
+    start_path: docs-src
+  - url: https://github.com/Netbeheer-Nederland/im-capaciteitskaart
+    branches: bart-test-antora
+    start_path: docs-src
 asciidoc:
   attributes:
     page-pagination: ''
