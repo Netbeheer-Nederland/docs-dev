@@ -9,12 +9,16 @@ content:
   - url: https://github.com/Netbeheer-Nederland/doc-linkml-guide
   - url: https://github.com/Netbeheer-Nederland/doc-modeling-guide
   - url: https://github.com/Netbeheer-Nederland/dp-meetdata
+    branches: v*
     start_path: docs-src
   - url: https://github.com/Netbeheer-Nederland/dp-nbl-forecast
+    branches: v*
     start_path: docs-src
   - url: https://github.com/Netbeheer-Nederland/dp-eh-nettopologie
+    branches: v*
     start_path: docs-src
   - url: https://github.com/Netbeheer-Nederland/im-capaciteitskaart
+    branches: v*
     start_path: docs-src
 asciidoc:
   attributes:
