@@ -14,9 +14,6 @@ content:
   - url: https://github.com/Netbeheer-Nederland/dp-transitietechnieken
     branches: docs-dev
     start_paths: [v*.*]
-  - url: https://github.com/Netbeheer-Nederland/tmpl-dp
-    branches: docs-dev
-    start_paths: [v*.*]
   - url: https://github.com/Netbeheer-Nederland/dp-nbl-forecast
     branches: v*
     start_path: docs-src
