@@ -29,6 +29,7 @@ asciidoc:
     experimental: ''
     kroki-fetch-diagram: true
     kroki-default-format: svg@
+    kroki-server-url: http://fruit.ritger.nl:9000
   extensions:
   - asciidoctor-kroki
 output:
