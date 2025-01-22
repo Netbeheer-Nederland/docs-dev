@@ -28,6 +28,10 @@
     white-space: nowrap;  /* Somehow prevents wrapping at all... Not sure if this is desired. */
   }
 
+  .table-container {
+    overflow-x: auto;
+  }
+
   /*
   .nav-container {
     width: 25vw;
