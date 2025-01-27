@@ -11,6 +11,9 @@ content:
   - url: https://github.com/Netbeheer-Nederland/dp-meetdata
     branches: docs-dev
     start_paths: [v*.*]
+  - url: https://github.com/Netbeheer-Nederland/dp-testme
+    branches: docs-dev
+    start_paths: [v*.*]
   - url: https://github.com/Netbeheer-Nederland/dp-transitietechnieken
     branches: docs-dev
     start_paths: [v*.*]
