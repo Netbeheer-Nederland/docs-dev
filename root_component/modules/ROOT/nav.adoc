@@ -2,8 +2,7 @@
 ** xref:documentation-manual::index.adoc[]
 ** xref:linkml-guide::index.adoc[]
 * Data products
+** xref:dp-capaciteitskaart::index.adoc[]
 ** xref:dp-meetdata::index.adoc[]
-** xref:dp-nbl-forecast::index.adoc[]
-** xref:dp-eh-nettopologie::index.adoc[]
-** xref:dp-capacity-heatmap::index.adoc[]
+** xref:dp-netburen::index.adoc[]
 ** xref:dp-transitietechnieken::index.adoc[]
