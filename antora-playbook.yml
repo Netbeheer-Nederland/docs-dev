@@ -11,21 +11,21 @@ content:
   - url: https://github.com/Netbeheer-Nederland/dp-meetdata
     branches: docs-dev
     start_paths: [v*.*]
-  - url: https://github.com/Netbeheer-Nederland/dp-testme
-    branches: docs-dev
-    start_paths: [v*.*]
   - url: https://github.com/Netbeheer-Nederland/dp-transitietechnieken
     branches: docs-dev
     start_paths: [v*.*]
+  - url: https://github.com/Netbeheer-Nederland/dp-netburen
+    branches: v*
+    start_path: docs-dev
+  - url: https://github.com/Netbeheer-Nederland/dp-capaciteitskaart
+    branches: v*
+    start_path: docs-dev
   - url: https://github.com/Netbeheer-Nederland/dp-nbl-forecast
     branches: v*
-    start_path: docs-src
-  - url: https://github.com/Netbeheer-Nederland/dp-eh-nettopologie
-    branches: v*
-    start_path: docs-src
-  - url: https://github.com/Netbeheer-Nederland/im-capaciteitskaart
-    branches: v*
-    start_path: docs-src
+    start_path: docs-dev
+  - url: https://github.com/Netbeheer-Nederland/dp-testme
+    branches: docs-dev
+    start_paths: [v*.*]
 asciidoc:
   attributes:
     page-pagination: ''
