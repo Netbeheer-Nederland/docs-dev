@@ -23,9 +23,9 @@ content:
   - url: https://github.com/Netbeheer-Nederland/dp-nbl-forecast
     branches: v*
     start_path: docs-dev
-  - url: https://github.com/Netbeheer-Nederland/dp-testme
-    branches: docs-dev
-    start_paths: [v*.*]
+  #- url: https://github.com/Netbeheer-Nederland/dp-testme
+  #  branches: docs-dev
+  #  start_paths: [v*.*]
 asciidoc:
   attributes:
     page-pagination: ''
