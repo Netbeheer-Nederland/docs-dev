@@ -23,6 +23,9 @@ content:
   - url: https://github.com/Netbeheer-Nederland/dp-dataproduct
     branches: docs-dev
     start_paths: [v*]
+  - url: https://github.com/Netbeheer-Nederland/im-archimate-metamodel
+    branches: docs-dev
+    start_paths: [v*]
   #- url: https://github.com/Netbeheer-Nederland/dp-nbl-forecast
   #  branches: docs-dev
   #  start_paths: [v*.*]
