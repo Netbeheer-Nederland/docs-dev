@@ -6,5 +6,6 @@
 * Data products
 ** xref:dp-capaciteitskaart::index.adoc[]
 ** xref:dp-meetdata::index.adoc[]
+** xref:dp-netbewust-laden::index.adoc[]
 ** xref:dp-netburen::index.adoc[]
 ** xref:dp-transitietechnieken::index.adoc[]

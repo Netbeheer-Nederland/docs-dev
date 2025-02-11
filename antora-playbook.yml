@@ -20,18 +20,15 @@ content:
   - url: https://github.com/Netbeheer-Nederland/dp-capaciteitskaart
     branches: docs-dev
     start_paths: [v*]
+  - url: https://github.com/Netbeheer-Nederland/dp-netbewust-laden
+    branches: docs-dev
+    start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/dp-dataproduct
     branches: docs-dev
     start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/im-archimate-metamodel
     branches: docs-dev
     start_paths: [v*]
-  #- url: https://github.com/Netbeheer-Nederland/dp-nbl-forecast
-  #  branches: docs-dev
-  #  start_paths: [v*.*]
-  #- url: https://github.com/Netbeheer-Nederland/dp-testme
-  #  branches: docs-dev
-  #  start_paths: [v*.*]
 asciidoc:
   attributes:
     page-pagination: ''
