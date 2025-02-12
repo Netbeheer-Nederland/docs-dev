@@ -1,8 +1,0 @@
-[[dfn-documentation-project]] documentation project::
-A unit of documentation to be maintained on its own. This could be any type of documention: standards, guides, conventions, books, etc.
-
-[[dfn-root-documentation-project]] root documentation project::
-A special and unique <<dfn-documentation-project>> used to generate the <<dfn-documentation-website>> from. The content it shows is an aggregate from a selection of <<dfn-documentation-project,documentation projects>>.
-
-[[dfn-documentation-website]] documentation website::
-The central website which where the documentation can be found. It is generated from the <<dfn-root-documentation-project>>, so the content it shows depends on the configuration of that project.

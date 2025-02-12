@@ -5,9 +5,6 @@ content:
   sources:
   - url: .
     start_path: ./root_component
-  - url: https://github.com/Netbeheer-Nederland/doc-documentation-manual
-  - url: https://github.com/Netbeheer-Nederland/doc-linkml-guide
-  - url: https://github.com/Netbeheer-Nederland/doc-modeling-guide
   - url: https://github.com/Netbeheer-Nederland/dp-meetdata
     branches: docs-dev
     start_paths: [v*]
