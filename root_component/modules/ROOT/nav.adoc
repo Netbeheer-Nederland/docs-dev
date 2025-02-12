@@ -1,6 +1,4 @@
 * Guides
-** xref:documentation-manual::index.adoc[]
-** xref:linkml-guide::index.adoc[]
 ** xref:dp-dataproduct::index.adoc[]
 ** xref:im-archimate-metamodel::index.adoc[]
 * Data products
