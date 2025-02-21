@@ -26,11 +26,13 @@ content:
   - url: https://github.com/Netbeheer-Nederland/im-archimate-metamodel
     branches: docs-dev
     start_paths: [v*]
+  - url: https://github.com/Netbeheer-Nederland/doc-modeling-guidelines
+    branches: [v*]
 asciidoc:
   attributes:
     page-pagination: ''
     experimental: ''
-    kroki-fetch-diagram: true
+    kroki-fetch-diagram: true  # Ensure renderng is done server-sided so the images are served statically.
     kroki-default-format: svg@
     kroki-server-url: http://fruit.ritger.nl:9000
   extensions:

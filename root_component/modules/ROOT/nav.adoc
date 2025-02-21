@@ -1,6 +1,7 @@
 * Guides
 ** xref:dp-dataproduct::index.adoc[]
 ** xref:im-archimate-metamodel::index.adoc[]
+** xref:doc-modeling-guidelines::index.adoc[]
 * Data products
 ** xref:dp-capaciteitskaart::index.adoc[]
 ** xref:dp-meetdata::index.adoc[]
