@@ -36,7 +36,8 @@ asciidoc:
     kroki-default-format: svg@
     kroki-server-url: http://fruit.ritger.nl:9000
   extensions:
-  - asciidoctor-kroki
+    - asciidoctor-kroki
+    - '@djencks/asciidoctor-mathjax'
 output:
   clean: true
   dir: ./docs
