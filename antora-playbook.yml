@@ -28,6 +28,8 @@ content:
     start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/doc-modeling-guidelines
     branches: [v*]
+  - url: https://github.com/Netbeheer-Nederland/doc-iri-strategy
+    branches: [v*]
 asciidoc:
   attributes:
     page-pagination: ''
