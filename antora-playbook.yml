@@ -30,6 +30,8 @@ content:
     branches: [v*]
   - url: https://github.com/Netbeheer-Nederland/doc-iri-strategy
     branches: [v*]
+  - url: https://github.com/Netbeheer-Nederland/doc-design
+    branches: [v*]
 asciidoc:
   attributes:
     page-pagination: ''
