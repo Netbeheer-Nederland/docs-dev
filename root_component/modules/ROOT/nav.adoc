@@ -4,6 +4,7 @@
 ** xref:doc-modeling-guidelines::index.adoc[]
 ** xref:doc-design::index.adoc[]
 * Data products
+** xref:dp-buurtnet::index.adoc[]
 ** xref:dp-capaciteitskaart::index.adoc[]
 ** xref:dp-meetdata::index.adoc[]
 ** xref:dp-netbewust-laden::index.adoc[]
