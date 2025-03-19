@@ -17,6 +17,9 @@ content:
   - url: https://github.com/Netbeheer-Nederland/dp-capaciteitskaart
     branches: docs-dev
     start_paths: [v*]
+  - url: https://github.com/Netbeheer-Nederland/dp-capaciteitskaart-groengas
+    branches: docs-dev
+    start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/dp-netbewust-laden
     branches: docs-dev
     start_paths: [v*]
