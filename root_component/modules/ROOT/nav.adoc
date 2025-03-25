@@ -11,4 +11,5 @@
 ** xref:dp-meetdata::index.adoc[]
 ** xref:dp-netbewust-laden::index.adoc[]
 ** xref:dp-netburen::index.adoc[]
+** xref:dp-stationsmeetdata::index.adoc[]
 ** xref:dp-transitietechnieken::index.adoc[]
