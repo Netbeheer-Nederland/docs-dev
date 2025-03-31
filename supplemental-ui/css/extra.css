@@ -1,3 +1,7 @@
+article.doc code {
+  padding: 0;
+}
+
 .truncate {
   max-width: 50px;
   white-space: nowrap;
