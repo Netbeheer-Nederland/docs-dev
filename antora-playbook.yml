@@ -35,6 +35,9 @@ content:
   - url: https://github.com/Netbeheer-Nederland/im-archimate-metamodel
     branches: docs-dev
     start_paths: [v*]
+  - url: https://github.com/Netbeheer-Nederland/im-nbnl-equipment
+    branches: docs-dev
+    start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/doc-modeling-guidelines
     branches: [v*]
   - url: https://github.com/Netbeheer-Nederland/doc-iri-strategy
