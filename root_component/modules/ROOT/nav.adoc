@@ -3,6 +3,7 @@
 ** xref:im-archimate-metamodel::index.adoc[]
 ** xref:doc-modeling-guidelines::index.adoc[]
 ** xref:doc-design::index.adoc[]
+** xref:doc-iri-strategy::index.adoc[]
 * Data products
 ** xref:dp-buurtnet::index.adoc[]
 ** xref:dp-capaciteitskaart::index.adoc[]
