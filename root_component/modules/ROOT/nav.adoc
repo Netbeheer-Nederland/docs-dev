@@ -13,4 +13,5 @@
 ** xref:dp-stationsmeetdata::index.adoc[]
 ** xref:dp-transitietechnieken::index.adoc[]
 * NBNL Profile Group
+** xref:im-object::index.adoc[]
 ** xref:im-nbnl-equipment::index.adoc[]
