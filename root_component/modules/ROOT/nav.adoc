@@ -26,7 +26,8 @@
 *** xref:ROOT:conceptual-models:modelleurs/tijdlijnen.adoc[]
 *** xref:ROOT:conceptual-models:modelleurs/verwante-methoden.adoc[]
 *** xref:ROOT:conceptual-models:modelleurs/regelgeving.adoc[]
-** xref:im-aansluitingenregister:ontology:index.adoc[]
+** Modellen
+*** xref:im-aansluitingenregister:ontology:index.adoc[]
 * NBNL Profile Group
 ** xref:im-object::code_list.adoc[]
 ** xref:im-nbnl-equipment::index.adoc[]
