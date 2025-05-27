@@ -4,7 +4,7 @@
 ** xref:doc-modeling-guidelines::index.adoc[]
 ** xref:doc-design::index.adoc[]
 ** xref:doc-iri-strategy::index.adoc[]
-* Data products
+* Data Products
 ** xref:dp-buurtnet::index.adoc[]
 ** xref:dp-capaciteitskaart::index.adoc[]
 ** xref:dp-capaciteitskaart-groengas::index.adoc[]
@@ -13,6 +13,8 @@
 ** xref:dp-netburen::index.adoc[]
 ** xref:dp-stationsmeetdata::index.adoc[]
 ** xref:dp-transitietechnieken::index.adoc[]
+* Conceptual Models
+** xref::conceptual-models:index.adoc[]
 * NBNL Profile Group
 ** xref:im-object::code_list.adoc[]
 ** xref:im-nbnl-equipment::index.adoc[]
