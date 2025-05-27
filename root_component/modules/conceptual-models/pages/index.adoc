@@ -1,6 +1,6 @@
 = Conceptuele informatiemodellen
 
-include::under_construction.adoc[]
+include::partial$under_construction.adoc[]
 
 Bij Netbeheer Nederland zorgen wij ervoor dat onze data **helder en herbruikbaar** zijn. Dat doen we door de betekenis ervan eenduidig vast te leggen:
 

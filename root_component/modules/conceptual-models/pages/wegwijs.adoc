@@ -1,8 +1,6 @@
 = Wegwijs in de modellen
 
-include::under_construction.adoc[]
-
-== Inhoud
+include::partial$under_construction.adoc[]
 
 De conceptuele informatiemodellen op deze website gebruiken eenvoudige
 diagrammen om te laten zien _welke begrippen er zijn_ en _hoe die met
