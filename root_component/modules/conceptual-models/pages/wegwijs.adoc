@@ -12,11 +12,9 @@ Een *entiteit* is iets uit de werkelijkheid waarover we informatie
 vastleggen, bijvoorbeeld een aansluiting, een meter of een klant. In het
 diagram zie je entiteiten als *rechthoeken* met een naam erin.
 
-[mermaid,svg]
+[d2]
 ----
-erDiagram
-    Aansluiting {
-    }
+Aansluiting
 ----
 
 
@@ -28,14 +26,13 @@ entiteitsnaam. +
 Voorbeeld: een `+Aansluiting+` heeft een `+EAN_code+` en een
 `+energiedrager+` (elektriciteit of gas).
 
-[mermaid]
+[d2]
 ----
-erDiagram
-    Aansluiting {
-        v EAN_code
-        v energiedrager
-        o gecontracteerde_transportcapaciteit
-    }
+Aansluiting {
+    v EAN_code
+    v energiedrager
+    o gecontracteerde_transportcapaciteit
+}
 ----
 
 == Relaties
@@ -44,10 +41,16 @@ Entiteiten hangen vaak met elkaar samen. Zo liggen in een *netgebied*
 één of meer *aansluitingen*. Dat zie je als een lijn tussen twee
 entiteiten, met een naam erbij.
 
-[mermaid]
+[d2]
 ----
-erDiagram
-    Netgebied |o--o{ Aansluiting : "gelegen in"
+Netgebied <-> Aansluiting: "gelegen in" {
+  source-arrowhead: {
+    shape: cf-one
+  }
+  target-arrowhead: {
+    shape: cf-many
+  }
+}
 ----
 
 De positie van het label (bij `+Aansluiting+`) laat de richting van de
@@ -71,11 +74,10 @@ Bijvoorbeeld:
 * `+}|--||+` → Eén of meer overdrachtspunten zijn deel van exact één
 aansluiting
 
-[mermaid]
+[d2]
 ----
-erDiagram
-    Netgebied |o--o{ Aansluiting : "gelegen in"
-    Aansluiting ||--|{ Overdrachtspunt : "deel van"
+Netgebied |o--o{ Aansluiting : "gelegen in"
+Aansluiting ||--|{ Overdrachtspunt : "deel van"
 ----
 
 == Tijdsaspecten
@@ -90,12 +92,12 @@ tijdinformatie bevat, zie je annotaties als:
 Deze geven aan in welke periode een gegeven geldig is. Dit noemen we ook
 wel een tijdlijn of _tijdslijnmodellering_ (NEN 3610).
 
-[mermaid]
+[d2]
 ----
-erDiagram
-    Aansluiting {
-        t tijdlijn_geldigheid
-    }
+Aansluiting: {
+  shape: sql_table
+  t: tijdlijn_geldigheid
+}
 ----
 
 == TODO
@@ -107,12 +109,12 @@ erDiagram
 
 [mermaid]
 ----
-erDiagram
-    Entiteit {
-        i identificerende_eigenschap
-        e essentiele_eigenschap
-        a accidentiele_eigenschap
-        d afleidbare_eigenschap
-        t tijdslijnaanduiding
-    }   
+Entiteit: {
+  shape: sql_table
+  i: identificerende_eigenschap
+  e: essentiele_eigenschap
+  a: accidentiele_eigenschap
+  d: afleidbare_eigenschap
+  t: tijdslijnaanduiding
+}   
 ----
