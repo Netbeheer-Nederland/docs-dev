@@ -44,7 +44,7 @@ uit. Het diagram hieronder toont welke stijlkeuzen we hebben gemaakt in
 draw.io.
 
 .Aansluitingenregister
-image:im-aansluitingenregister::im_aansluitingenregister.ontology.drawio.svg[Aansluitingenregister]
+image:im-aansluitingenregister:ontology:im_aansluitingenregister.ontology.drawio.svg[Aansluitingenregister]
 
 Enkele elementen lichten we eruit. Voor bijna elk punt is het
 achterliggende principe: visuele rust en duidelijkheid!

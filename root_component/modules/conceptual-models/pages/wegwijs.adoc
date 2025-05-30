@@ -28,7 +28,8 @@ Voorbeeld: een `+Aansluiting+` heeft een `+EAN_code+` en een
 
 [d2]
 ----
-Aansluiting {
+Aansluiting: {
+  shape: sql_table
     v EAN_code
     v energiedrager
     o gecontracteerde_transportcapaciteit
@@ -76,8 +77,23 @@ aansluiting
 
 [d2]
 ----
-Netgebied |o--o{ Aansluiting : "gelegen in"
-Aansluiting ||--|{ Overdrachtspunt : "deel van"
+Netgebied <-> Aansluiting: "gelegen in" {
+  source-arrowhead: {
+    shape: cf-one
+  }
+  target-arrowhead: {
+    shape: cf-many
+  }
+}
+
+Aansluiting <-> Overdrachtspunt: "deel van" {
+  source-arrowhead: {
+    shape: cf-one-required
+  }
+  target-arrowhead: {
+    shape: cf-many-required
+  }
+}
 ----
 
 == Tijdsaspecten
@@ -107,7 +123,7 @@ Aansluiting: {
 * verwijzingen naar andere registers en basisregistraties
 * NBility-kleuren
 
-[mermaid]
+[d2]
 ----
 Entiteit: {
   shape: sql_table

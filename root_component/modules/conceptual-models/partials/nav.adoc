@@ -10,5 +10,6 @@
 *** xref:ROOT:conceptual-models:modelleurs/tijdlijnen.adoc[]
 *** xref:ROOT:conceptual-models:modelleurs/verwante-methoden.adoc[]
 *** xref:ROOT:conceptual-models:modelleurs/regelgeving.adoc[]
+** xref:ROOT:conceptual-models:wegwijs.adoc[]
 ** Modellen
 *** xref:im-aansluitingenregister:ontology:index.adoc[]

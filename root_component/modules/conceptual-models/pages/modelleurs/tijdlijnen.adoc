@@ -43,7 +43,7 @@ waarborgen in latere uitwerkingen, bijvoorbeeld versiemodellering in het
 gegevensmodel:
 
 .Tijdlijnen in een gegevensmodel
-image::tijdlijnen.drawio.svg[Tijdlijnen in een gegevensmodel]
+image::modelleurs/tijdlijnen.drawio.svg[Tijdlijnen in een gegevensmodel]
 
 == Tijdlijn geldigheid
 
