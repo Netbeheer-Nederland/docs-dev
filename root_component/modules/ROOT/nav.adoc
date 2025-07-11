@@ -1,3 +1,36 @@
+* Definitions
+** Thesauruses
+*** Energiesysteembeheer
+*** Datamanagement
+** Data Products
+*** Buurtnet
+*** Netbewust Laden
+*** Netburen
+** Conceptual Models
+*** Registers
+**** Aansluitingenregister
+**** Meetcomponentenregister
+*** Datadiensten
+**** Energiegebiedsprofielen kleinverbruik
+** NBNL Profile Group
+*** Code List
+*** Equipment Profile
+** Metamodels
+*** ArchiMate
+*** Data Product
+* Solution Designs
+** Buurtnet
+** Netbewust Laden
+** Rijksinspectie Data Infrastructuur (RDI)
+* Guidelines
+** IRI Strategy
+** Versioning
+** Modeling Guidelines
+* Guides
+** Data Products
+*** How to Create a New Data Product
+
+
 * Guides
 ** xref:dp-dataproduct::index.adoc[]
 ** xref:im-archimate-metamodel::index.adoc[]
