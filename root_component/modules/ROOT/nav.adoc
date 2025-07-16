@@ -1,36 +1,3 @@
-* Definitions
-** Thesauruses
-*** Energiesysteembeheer
-*** Datamanagement
-** Data Products
-*** Buurtnet
-*** Netbewust Laden
-*** Netburen
-** Conceptual Models
-*** Registers
-**** Aansluitingenregister
-**** Meetcomponentenregister
-*** Datadiensten
-**** Energiegebiedsprofielen kleinverbruik
-** NBNL Profile Group
-*** Code List
-*** Equipment Profile
-** Metamodels
-*** ArchiMate
-*** Data Product
-* Solution Designs
-** Buurtnet
-** Netbewust Laden
-** Rijksinspectie Data Infrastructuur (RDI)
-* Guidelines
-** IRI Strategy
-** Versioning
-** Modeling Guidelines
-* Guides
-** Data Products
-*** How to Create a New Data Product
-
-
 * Guides
 ** xref:dp-dataproduct::index.adoc[]
 ** xref:im-archimate-metamodel::index.adoc[]
@@ -46,8 +13,6 @@
 ** xref:dp-netburen::index.adoc[]
 ** xref:dp-stationsmeetdata::index.adoc[]
 ** xref:dp-transitietechnieken::index.adoc[]
-* xref:ROOT:conceptual-models:index.adoc[Conceptual Models]
-include::conceptual-models:partial$nav.adoc[]
 * NBNL Profile Group
 ** xref:im-object::code_list.adoc[]
 ** xref:im-nbnl-equipment::index.adoc[]
