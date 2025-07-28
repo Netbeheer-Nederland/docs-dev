@@ -16,3 +16,5 @@
 * NBNL Profile Group
 ** xref:im-object::code_list.adoc[]
 ** xref:im-nbnl-equipment::index.adoc[]
+* Information models
+** xref:im-aangeslotenenregister::index.adoc[]
