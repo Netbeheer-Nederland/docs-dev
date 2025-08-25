@@ -10,7 +10,7 @@
 /.vscode/
 
 # Antora
-/antora-playbook-local.yml
+/antora-playbook-local*.yml
 
 # Build artefacts
 /docs/
