@@ -50,8 +50,6 @@ content:
     branches: [v*]
   - url: https://github.com/Netbeheer-Nederland/doc-design
     branches: [v*]
-  - url: https://github.com/Netbeheer-Nederland/doc-team-semantiek
-    branches: [v*]
 asciidoc:
   attributes:
     page-pagination: ''
