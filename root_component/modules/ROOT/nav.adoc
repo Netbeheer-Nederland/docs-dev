@@ -3,7 +3,7 @@
 ** xref:im-archimate-metamodel::index.adoc[]
 * Guidelines
 ** xref:doc-design::index.adoc[]
-** xref:doc-iri-strategy::index.adoc[]
+** xref:doc-uri-policy::index.adoc[]
 ** xref:doc-team-semantiek:conceptual-models:index.adoc[]
 ** xref:doc-team-semantiek:projects:index.adoc[]
 * Data Products
