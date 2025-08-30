@@ -26,6 +26,9 @@ content:
   - url: https://github.com/Netbeheer-Nederland/dp-netbewust-laden
     branches: docs-dev
     start_paths: [v*]
+  - url: https://github.com/Netbeheer-Nederland/dp-nbnl-equipment
+    branches: docs-dev
+    start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/dp-buurtnet
     branches: docs-dev
     start_paths: [v*]
