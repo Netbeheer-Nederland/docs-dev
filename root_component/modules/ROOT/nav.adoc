@@ -2,6 +2,7 @@
 ** xref:dp-dataproduct::index.adoc[]
 ** xref:im-archimate-metamodel::index.adoc[]
 * Guidelines
+** xref:doc-modeling-guidelines::index.adoc[]
 ** xref:doc-design::index.adoc[]
 ** xref:doc-uri-policy::index.adoc[]
 ** xref:doc-team-semantiek:conceptual-models:index.adoc[]
