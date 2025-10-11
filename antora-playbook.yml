@@ -41,9 +41,6 @@ content:
   - url: https://github.com/Netbeheer-Nederland/im-archimate-metamodel
     branches: docs-dev
     start_paths: [v*]
-  - url: https://github.com/Netbeheer-Nederland/im-aansluitingenregister
-    branches: docs-dev
-    start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/im-nbnl-equipment
     branches: docs-dev
     start_paths: [v*]
@@ -58,6 +55,9 @@ content:
     branches: [v*]
   - url: https://github.com/Netbeheer-Nederland/doc-team-semantiek
     branches: main
+  - url: https://github.com/Netbeheer-Nederland/conceptuele-informatiemodellen
+    branches: docs-dev
+    start_paths: artifacts/documentation/*/*
 asciidoc:
   attributes:
     page-pagination: ''
