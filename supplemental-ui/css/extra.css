@@ -26,6 +26,7 @@ article.doc code {
 
   img {
     max-height: 33vh;
+    color-scheme: light;
   }
 
   nav .nav-list > li {
