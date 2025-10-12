@@ -57,7 +57,7 @@ content:
     branches: main
   - url: https://github.com/Netbeheer-Nederland/conceptuele-informatiemodellen
     branches: docs-dev
-    start_paths: artifacts/documentation/*/*
+    start_paths: documentation/*/*
 asciidoc:
   attributes:
     page-pagination: ''
