@@ -17,21 +17,21 @@ article.doc code {
   text-overflow: ellipsis;
 }
 
+img {
+max-height: 33vh;
+color-scheme: light;
+}
+
+#conceptual-model.imageblock img {
+max-height: 100%;
+}
+
 @media screen and (min-width: 1024px) {
   /*
   .doc {
     max-width: 77rem;
   }
   */
-
-  img {
-    max-height: 33vh;
-    color-scheme: light;
-  }
-
-  #conceptual-model.imageblock img {
-    max-height: 100%;
-  }
 
   nav .nav-list > li {
     max-width: 100%;
