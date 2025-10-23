@@ -71,6 +71,9 @@ asciidoc:
 output:
   clean: true
   dir: ./docs
+urls:
+  latest_version_segment: ''
+  latest_prerelease_version_segment: ''
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
