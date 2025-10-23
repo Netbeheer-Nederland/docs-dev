@@ -49,7 +49,7 @@ content:
     start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/doc-modeling-guidelines
     branches: [v*]
-  - url: https://github.com/Netbeheer-Nederland/doc-uri-policy
+  - url: https://github.com/Netbeheer-Nederland/uri-policy
     branches: [v*]
   - url: https://github.com/Netbeheer-Nederland/doc-design
     branches: [v*]
