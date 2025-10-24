@@ -1,6 +1,6 @@
 site:
   title: NBNL - Modellen
-  url: https://modellen.netbeheernederland.nl
+  url: http://netbeheer-nederland.github.io/docs-dev
 content:
   sources:
   - url: .
