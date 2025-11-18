@@ -44,6 +44,9 @@ content:
   - url: https://github.com/Netbeheer-Nederland/im-nbnl-equipment
     branches: docs-dev
     start_paths: [v*]
+  - url: https://github.com/Netbeheer-Nederland/im-nbnl-operation
+    branches: docs-dev
+    start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/im-object
     branches: docs-dev
     start_paths: [v*]

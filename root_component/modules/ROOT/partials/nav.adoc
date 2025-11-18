@@ -22,3 +22,4 @@
 * NBNL Profile Group
 ** xref:im-object::object_register.adoc[]
 ** xref:im-nbnl-equipment::index.adoc[]
+** xref:im-nbnl-operation::index.adoc[]
