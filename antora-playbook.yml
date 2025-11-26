@@ -12,10 +12,10 @@ content:
     branches: docs-dev
     start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/dp-netburen
-    branches: docs-dev
+    branches: docs*
     start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/dp-capaciteitskaart
-    branches: docs-dev
+    branches: docs*
     start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/dp-capaciteitskaart-ls
     branches: docs-dev
@@ -24,10 +24,10 @@ content:
     branches: docs-dev
     start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/dp-netbewust-laden
-    branches: docs-dev
+    branches: docs*
     start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/dp-nbnl-equipment
-    branches: docs-dev
+    branches: docs*
     start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/dp-buurtnet
     branches: docs-dev
