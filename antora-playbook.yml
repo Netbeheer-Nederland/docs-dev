@@ -27,7 +27,7 @@ content:
     branches: docs-dev
     start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/dp-nbnl-equipment
-    branches: docs*
+    branches: docs-dev
     start_paths: [v*]
   - url: https://github.com/Netbeheer-Nederland/dp-buurtnet
     branches: docs-dev
