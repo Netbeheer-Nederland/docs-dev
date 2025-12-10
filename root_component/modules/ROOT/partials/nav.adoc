@@ -5,7 +5,6 @@
 ** xref:doc-design::index.adoc[Ontwerpdocumentatie]
 
 ** Modellen
-*** xref:dp-buurtnet::index.adoc[]
 *** xref:dp-capaciteitskaart-ls::index.adoc[]
 *** xref:dp-capaciteitskaart::index.adoc[]
 *** xref:dp-meetdata::index.adoc[]
