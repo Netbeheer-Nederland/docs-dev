@@ -16,6 +16,8 @@
 ** xref:im-object::object_register.adoc[]
 ** Profiles
 *** xref:im-nbnl-equipment::index.adoc[]
+*** xref:im-nbnl-geolocation::index.adoc[]
 *** xref:im-nbnl-operation::index.adoc[]
+*** xref:im-nbnl-topology::index.adoc[]
 ** Data Products
 *** xref:dp-nbnl-equipment::index.adoc[]
