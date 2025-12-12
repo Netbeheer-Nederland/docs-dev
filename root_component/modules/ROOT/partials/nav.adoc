@@ -21,3 +21,6 @@
 *** xref:im-nbnl-topology::index.adoc[]
 ** Data Products
 *** xref:dp-nbnl-equipment::index.adoc[]
+*** xref:dp-nbnl-operation::index.adoc[]
+*** xref:dp-nbnl-geolocation::index.adoc[]
+*** xref:dp-nbnl-topology::index.adoc[]
