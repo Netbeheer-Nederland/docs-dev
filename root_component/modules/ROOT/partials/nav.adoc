@@ -2,6 +2,7 @@
 ** xref:uri-policy::index.adoc[]
 
 * Dataproducten
+** xref:doc-design::architecture-decision-log.adoc[Architecture Decision Log]
 ** xref:doc-design::index.adoc[Ontwerpdocumentatie]
 
 ** Modellen
