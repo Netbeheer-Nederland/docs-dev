@@ -1,3 +1,0 @@
-= NBNL -- Modellen
-
-Publicatieomgeving van modellen van dataproducten en registers onder beheer van Netbeheer Nederland.
